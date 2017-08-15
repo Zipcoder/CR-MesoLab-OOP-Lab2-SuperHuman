@@ -81,7 +81,7 @@ Note: Inventory and InventoryManager should not be the same class!!!
 UML is required
 Unit test in  place before proceeding with code
 
-## Instructions (Part I)
+## Instructions 
 
 1. In your main class initialize your manager and populate your inventory
 2. Demonstrate calling methods on your manager

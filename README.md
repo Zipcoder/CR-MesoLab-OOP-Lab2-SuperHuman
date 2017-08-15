@@ -88,4 +88,4 @@ Unit test in  place before proceeding with code
 
 ## Instructions (Part II)
 
-Alter your programs so that InventoryManager manages multiple inventories
+Alter your program so that InventoryManager manages multiple inventories

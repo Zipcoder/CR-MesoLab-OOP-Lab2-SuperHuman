@@ -85,7 +85,3 @@ Unit test in  place before proceeding with code
 
 1. In your main class initialize your manager and populate your inventory
 2. Demonstrate calling methods on your manager
-
-## Instructions (Part II)
-
-Alter your program so that InventoryManager manages multiple inventories

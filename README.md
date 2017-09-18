@@ -1,6 +1,6 @@
-#Part 1 Rotate Array
+# Part 1 Rotate Array
 
-###Objectives
+### Objectives
 
 1. To demonstrate your understanding of objects and functions
 2. To demonstrate your understanding of controlling execution
@@ -28,7 +28,7 @@ Make sure you test EVERY public method
 1. In your unit test class, initialize your custom List with values
 2. In your unit test class call the method that rotates your array
 
-#Part 2 Humans and Superhumans
+# Part 2 Humans and Superhumans
 
 ### Objectives
 
@@ -55,7 +55,7 @@ Make sure you test EVERY public method
 2. Demonstrate calling methods inherited from Human on your SuperHuman instances
 
 
-#Part 3 Class Manager
+# Part 3 Class Manager
 
 ## Product Inventory Project 
 

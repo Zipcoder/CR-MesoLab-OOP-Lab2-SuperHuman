@@ -1,5 +1,7 @@
 # Humans and Superhumans
 
+Make Unit tests for code you write. 
+
 ### Objectives
 
 1. To demonstrate your understanding of objects and functions
